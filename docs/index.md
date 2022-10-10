@@ -1,4 +1,4 @@
-# Obsidian Notes
+# Obsidian Notes CHF
 
 Publish your public notes with MkDocs
 
